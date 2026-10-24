@@ -1,1 +1,1 @@
-nul not found
+print("Pinus Tech")
