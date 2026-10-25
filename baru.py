@@ -10,3 +10,6 @@ print(
     "Through a variety of social, cultural, and educational events, we aim to preserve and promote Indonesian culture, while also helping members adapt to life in Singapore.\n"
     "PINUS serves as a platform for students to develop their talents, strengthen leadership skills, and build lifelong friendships with fellow Indonesians and the wider NUS community."
 )
+
+
+print("Hello this is from Ryan");
